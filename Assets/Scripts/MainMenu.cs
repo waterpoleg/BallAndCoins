@@ -21,7 +21,7 @@ public class MainMenu : MonoBehaviour
         _creditsWindow.SetActive(false);
     }
 
-    public void OnQuitButtonQlick()
+    public void OnQuitButtonClick()
     {
         Application.Quit();
     }
